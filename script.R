@@ -23,7 +23,7 @@ ggplot() +
   geom_map(data = WorldData, map = WorldData,
            aes(x = long, y = lat, group = group, map_id=region),
            fill = "grey", colour = "#7f7f7f", size=0.5) + 
-  geom_point(data = ufos, aes(x = longitude, y =latitude),colour = "red")+
+  geom_point(data = ufos, aes(x = longitude, y =latitude),colour = "blue")+
   scale_y_continuous(breaks=c()) +
   scale_x_continuous(breaks=c()) +
   labs( x="Global Distribution\nof UFO sightings", y="")
