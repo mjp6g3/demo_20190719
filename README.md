@@ -5,7 +5,7 @@ https://happygitwithr.com/
 https://datacarpentry.org/rr-version-control/03-git-in-rstudio/
 
 #What is version control and what is Git
-![alt text](https://images.app.goo.gl/8ajMPqUmmh2xNy7V7)
+![alt text](https://github.com/ryanjw/demo_20190719/blob/master/simple_git.jpg)
 
 
 
