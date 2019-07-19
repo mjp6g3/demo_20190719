@@ -21,6 +21,10 @@ https://datacarpentry.org/rr-version-control/03-git-in-rstudio/
 
 #What do we want to do next???
 
+- Running commands in the R/shell
+- Running software with the R/shell interactively
+- more R? Python? shell? SQL? 
+
 #Next Steps
 1. Branching
 2. Best practices
