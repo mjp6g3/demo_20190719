@@ -17,6 +17,7 @@ https://datacarpentry.org/rr-version-control/03-git-in-rstudio/
 3. make a change to a file
 4. git add, commit, push
 5. merge forked repo back into original
+(Here's a good write up of how to do it! https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser)
 
 #Next Steps
 1. Branching
